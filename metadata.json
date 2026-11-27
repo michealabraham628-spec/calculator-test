@@ -1,0 +1,6 @@
+{
+  "name": "Numera",
+  "description": "Numera — Simple Calculator with live expression evaluation, calculation history, dark mode, and monthly subscription plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
